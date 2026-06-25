@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sowmya Sri</h1>
+# Hi 👋, I'm Sowmya Sri
 
-<h3 align="center">
-Computer Science Student | AI & ML Enthusiast | Full-Stack Learner
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Python+Developer;Full+Stack+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+### Computer Science Student | AI & ML Enthusiast | Full-Stack Learner
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Student
+🎓 Computer Science student passionate about AI, Machine Learning, and Software Development.
 
-🤖 Exploring AI, Machine Learning & Full-Stack Development
+🤖 Exploring AI, Machine Learning, and Full-Stack Development through hands-on projects and continuous learning.
 
-🚀 Building projects and solving real-world problems through technology
+🚀 Building innovative solutions and solving real-world problems through technology.
