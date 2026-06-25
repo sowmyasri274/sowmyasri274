@@ -37,3 +37,38 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sowmyasri274&theme=tokyonight&row=1&column=6)
+
+## 🌟 Featured Projects
+
+### 🍽️ Restaurant Website
+Responsive restaurant website with menu, gallery, online reservation, and modern UI.
+
+### 📋 AI Resume Analyzer
+AI-powered tool that analyzes resumes and provides insights for improvement.
+
+### 🗂️ Project Management Tool
+Task management and collaboration platform with intuitive dashboard features.
+
+### 🐍 Python Projects
+Collection of Python programs covering problem-solving, automation, and mini applications.
+
+## 🏆 Achievements & Certifications
+
+🏅 ET AI Hackathon 2.0 – Phase 2 Shortlisted
+
+📜 Walmart Global Tech – Advanced Software Engineering Job Simulation
+
+📜 Tata GenAI Powered Data Analytics Job Simulation
+
+📜 AWS Educate – Introduction to Generative AI,Machine Learning Foundations
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+- Generative AI
