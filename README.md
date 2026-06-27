@@ -10,16 +10,6 @@
 
 🚀 Building innovative solutions and solving real-world problems through technology.
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sowmyasri274&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyasri274&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=sowmyasri274&theme=tokyonight)
-
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
